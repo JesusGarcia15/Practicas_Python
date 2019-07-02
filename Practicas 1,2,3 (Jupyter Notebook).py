@@ -1,3 +1,4 @@
+#Practica1
 import this
 print('Me llamo Larry y tengo 60')
 print('hola')#te estoy saludando
@@ -18,6 +19,7 @@ print('Cumples', edad, 'años ¡Felicidades!')
 
 input()#Hago una pausa hasta que el usario pulse la tecla INTRO.
 
+#Practica2
 comida_niños = 50 #Tengo 50 bandejas de comida para niños
 comida_adultos = 30 #Tengo 30 bandejas de coomida para todos
 #Muestro las bandejas que tengo:
@@ -30,3 +32,8 @@ comida_adultos = comida_adultos -20
 total_comida = comida_niños + comida_adultos
 print('Ha habido venta. En total quedan', total_comida, 'bandeja de comida')
 input("Prsione INTRO para finalizar...") #Hago una pausa hasta que el usario pulse la tecla INTRO.
+#Practica3
+age = int(input("Dame tu perra edad: "))
+print('tu pendeja edad es de: ', age)
+name = str(input("Dame tu pendejo nombre: "))
+print('tu pendejada de nombre es: ', name)
